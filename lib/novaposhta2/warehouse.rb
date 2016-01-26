@@ -50,7 +50,7 @@ module Novaposhta2
       @description_ru = params['DescriptionRu']
       @ref = params['Ref']
       @number = params['Number'].to_i
-      @longtitude = params['Longitude']
+      @longitude = params['Longitude']
       @latitude = params['Latitude']
     end
   end

@@ -18,7 +18,7 @@ module Novaposhta2
       end
     end
 
-    alias [] cities
+    alias [] areas_center
 
     class << self
 
