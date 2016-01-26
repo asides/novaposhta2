@@ -1,7 +1,7 @@
 module Novaposhta2
   # Represents a warehouse.
   class Warehouse < Base
-    attr_reader :description, :description_ru, :ref, :number, :longtitude, :latitude #:nodoc:
+    attr_reader :description, :description_ru, :ref, :number, :longitude, :latitude #:nodoc:
 
 # "Description": "Відділення No1: вул. Кутузова, 125",
 # "DescriptionRu": "Отделение No1: ул. Кутузова, 125",
